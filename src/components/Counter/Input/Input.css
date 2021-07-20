@@ -1,0 +1,10 @@
+
+.inputDiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.inputs{
+    text-align: center;
+    display: block;
+}
